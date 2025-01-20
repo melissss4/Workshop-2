@@ -1,7 +1,7 @@
 # Workshop-2
 
 ## Workshop 2:
-Current sketch: https://editor.p5js.org/melisssa/full/jTs0vLPzH 
+Current sketch: [https://editor.p5js.org/melisssa/full/jTs0vLPzH ](https://melissss4.github.io/Workshop-2/) 
 
 Objective: To have things showing up on screen after the mouse is pressed/ to use the setTimeout and setInterval functions. 
 
